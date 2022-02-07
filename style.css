@@ -1,0 +1,20 @@
+body {
+    font-family: 'Maven Pro', sans-serif;
+}
+
+h3, h4 {
+    text-align: center;
+}
+
+.links-style {
+    display: flex;
+    flex-direction: column;
+}
+
+a {
+    margin-top: 30px;
+    margin-left: 70px;
+}
+
+
+
